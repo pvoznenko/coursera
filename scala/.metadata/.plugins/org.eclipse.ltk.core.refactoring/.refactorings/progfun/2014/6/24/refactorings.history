@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;progfun/src/week5/isPrime.sc&apos; to &apos;IsPrime.sc&apos;" description="Rename resource &apos;isPrime.sc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/week5/isPrime.sc" name="IsPrime.sc" stamp="1402323584505" updateReferences="true"/>&#x0A;<refactoring accessors="true" comment="Delete element from project &apos;progfun&apos;&#x0A;- Original project: &apos;progfun&apos;&#x0A;- Original element: &apos;IsPrime.sc&apos;" description="Delete element" element1="src/week5/IsPrime.sc" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="1" stamp="1402323706369" subPackages="false" version="1.0"/>
+</session>
